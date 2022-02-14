@@ -1,0 +1,8 @@
+streamlit==1.5.1
+numpy==1.22.1
+pandas==1.4.1
+nmslib==2.1.1
+pickleshare==0.7.5
+matplotlib==3.5.1
+lightfm==1.16
+jsonschema==4.4.0
